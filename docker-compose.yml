@@ -22,7 +22,7 @@ services:
     networks:
       - proxy-tier
     environment:
-      - IPFS_LOGGING=info
+      - IPFS_LOGGING=error
 
 networks:
   proxy-tier:
