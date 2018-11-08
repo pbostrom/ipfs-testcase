@@ -2,7 +2,7 @@ Test case to reproduce an IPFS issue
 
 Prereqs:
 
-Install docker, [docker-compose](https://docs.docker.com/compose/install/)
+Install docker, [docker-compose](https://docs.docker.com/compose/install/), then run:
 
 ```
 git clone https://github.com/pbostrom/ipfs_testcase.git
